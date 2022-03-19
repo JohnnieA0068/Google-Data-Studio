@@ -1,0 +1,7 @@
+echo "# Google-Data-Studio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JohnnieA0068/Google-Data-Studio.git
+git push -u origin main
